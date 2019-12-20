@@ -1,1 +1,1 @@
-Projeto exemplo de como utilizar o vuex com vue
+Assessment da disciplina Frameworks Front-end e Conexão com Back-end
